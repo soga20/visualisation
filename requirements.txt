@@ -1,7 +1,6 @@
 pysqlite3
 pandas
-matplotlib.pyplot
-matplotlib.colors
+matplotlib
 numpy
 ipywidgets
 warnings
