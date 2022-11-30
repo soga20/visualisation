@@ -1,0 +1,7 @@
+sqlite3
+pandas
+matplotlib.pyplot
+matplotlib.colors
+numpy
+ipywidgets
+warnings
