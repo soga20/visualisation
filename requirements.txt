@@ -1,7 +1,7 @@
-sqlite3
-pandas
-matplotlib.pyplot
-matplotlib.colors
-numpy
-ipywidgets
-warnings
+import sqlite3 as sql
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.colors as mpl
+import numpy as np
+import ipywidgets as ipyw
+import warnings
